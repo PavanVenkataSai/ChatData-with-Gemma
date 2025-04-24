@@ -11,3 +11,15 @@ An advanced AI-powered chatbot that interacts with your knowledge base stored in
 🔗 Multi-source querying (PDFs, SQL databases, Salesforce)
 
 🤖 LLM Switching: Gemini, GROQ, and Cohere support
+
+## .env
+```bash
+# Gemini API Key (Google)
+GEMINI_API_KEY=""
+
+# GROQ API Key
+GROQ_API_KEY=""
+
+# Cohere API Key
+COHERE_API_KEY=""
+```
